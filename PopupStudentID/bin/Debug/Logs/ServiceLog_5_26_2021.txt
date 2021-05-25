@@ -1,0 +1,26 @@
+Service is started at 5/26/2021 12:07:28 AM
+hello
+Can't log
+hello
+Can't log
+hello
+Logged
+18520175
+Test Show Message
+Service is started at 5/26/2021 12:14:29 AM
+hello
+Can't log
+hello
+Can't log
+hello
+Logged
+18520175
+True
+Test Show Message
+hello
+Can't log
+hello
+Logged
+18520175
+True
+Test Show Message

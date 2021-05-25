@@ -1,0 +1,20 @@
+Hello
+hello
+Can't log
+hello
+Can't log
+hello
+Logged
+18520175
+System.EntryPointNotFoundException: Unable to find an entry point named 'WTSGetActiveConsoleSessionID' in DLL 'kernel32.dll'.
+   at PopupStudentID.Service1.WTSGetActiveConsoleSessionID()
+   at PopupStudentID.Service1.ShowMessageBox() in E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\Service1.cs:line 98
+Hello
+hello
+Can't log
+hello
+Can't log
+hello
+Logged
+18520175
+Test Show Message

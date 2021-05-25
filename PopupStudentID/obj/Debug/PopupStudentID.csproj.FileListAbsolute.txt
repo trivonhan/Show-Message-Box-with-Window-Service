@@ -1,0 +1,8 @@
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\bin\Debug\PopupStudentID.exe.config
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\bin\Debug\PopupStudentID.exe
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\bin\Debug\PopupStudentID.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\obj\Debug\PopupStudentID.ProjectInstaller.resources
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\obj\Debug\PopupStudentID.csproj.GenerateResource.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\obj\Debug\PopupStudentID.csproj.CoreCompileInputs.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\obj\Debug\PopupStudentID.exe
+E:\Document\Year3\HKII\Malware\Lab\Lab2\PopupStudentID\PopupStudentID\obj\Debug\PopupStudentID.pdb
